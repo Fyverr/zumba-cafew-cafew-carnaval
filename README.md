@@ -30,4 +30,4 @@ A video game with three.js
 - [ ] : As a player, I want to decrease my life when I am touch by an ennemy
 - [ ] : As a player, I want to decrease my life when I fall 
 
-55/100
+59/100
